@@ -1,0 +1,23 @@
+{
+  // Git
+  "git.openRepositoryInParentFolders": "never",
+  
+  // Cursor Behaviour
+  "vim.camelCaseMotion.enable": true,
+  "vim.changeWordIncludesWhitespace": true,
+  
+  // Editor Appearence
+  "workbench.colorTheme": "Gruvbox Dark Medium",
+  "scroll-percentage.cursor": "cursor",
+  "editor.minimap.enabled": false,
+  "workbench.editor.editorActionsLocation": "hidden",
+  "window.menuBarVisibility": "toggle",
+  "editor.lineNumbers": "relative",
+  "workbench.activityBar.location": "hidden",
+  
+  // Security
+  "security.workspace.trust.untrustedFiles": "open",
+  
+  // Haskell
+  "haskell.manageHLS": "GHCup",
+}
